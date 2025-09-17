@@ -1,6 +1,7 @@
 # Edoofa-Lead-tracker
 The prototype includes an AI Lead Summary Generator that simulates processing counselor notes from WhatsApp conversations.
 
+Automated Google Sheet link- https://docs.google.com/spreadsheets/d/1Sk2x4u6xJ2d9EQYdIUzCbYLA-UVpP18aPkY-Kkj03Yo/edit?usp=sharing
 # How This Solution Works:
 Data Fetching: The script connects to Google Sheets API to retrieve lead data (simulated in this demo).
 
@@ -60,3 +61,12 @@ Provides complete context to leadership
 Offers real-time funnel visibility
 
 Identifies pipeline leaks and counselor effectivenes
+
+output:
+<img width="721" height="726" alt="image" src="https://github.com/user-attachments/assets/bdcc2a15-2967-424c-a081-1bef29914676" />
+<img width="677" height="750" alt="image" src="https://github.com/user-attachments/assets/d6fb83eb-dd6c-4147-917a-4bfc253652d2" />
+<img width="728" height="579" alt="image" src="https://github.com/user-attachments/assets/9d058ec2-b1be-4069-be9a-73ecd56fb6f5" />
+
+
+
+
